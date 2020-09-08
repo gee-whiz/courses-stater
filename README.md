@@ -1,2 +1,2 @@
 # courses-stater
-Starter project for YouTube tutoeial 
+Starter project for YouTube tutorial 
